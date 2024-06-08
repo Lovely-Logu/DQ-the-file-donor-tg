@@ -13,7 +13,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 ✯ Bᴏᴛ Sᴇʀᴠᴇʀ: <a href='https://app.koyeb.com/'>Kᴏʏᴇʙ</a>
 ✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: v2.7.1 [ Sᴛᴀʙʟᴇ ]
 
-Bot maintenancy  by : @Tr_LinksZz</b>"""
+❤️‍🔥 Bot Maimtenancy By : @Tr_LinksZz ❤️‍🔥</b>"""
 
     SOURCE_TXT = """<b>𝗡𝗼𝘁𝗲 :
 - ⚠️ 𝖳𝗁𝗂𝗌 𝖡𝗈𝗍 𝖨𝗌 𝖭𝗈𝗍 𝖠𝗇 𝖮𝗉𝖾𝗇 𝖲𝗈𝗎𝗋𝖼𝖾 𝖯𝗋𝗈𝗃𝖾𝖼𝗍.!!!
@@ -222,7 +222,7 @@ Nᴀᴍᴇ - {}"""
 
  Fɪʀsᴛ Oᴡɴᴇʀ Dᴇᴛᴀɪʟs :- 
 • ꜰᴜʟʟ ɴᴀᴍᴇ : 👑 𝖑𝖔𝖌𝖆𝖓𝖆𝖙𝖍𝖆𝖓 👑
-• ᴜꜱᴇʀɴᴀᴍᴇ : @Rolex_Lᴏɢᴜ
+• ᴜꜱᴇʀɴᴀᴍᴇ : @Rolex_Logu
 • ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/Rolex_Logu'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 
 Sᴇᴄᴏɴᴅ Oᴡɴᴇʀ Dᴇᴛᴀɪs :-
@@ -287,23 +287,17 @@ Sᴇᴄᴏɴᴅ Oᴡɴᴇʀ Dᴇᴛᴀɪs :-
 ᴀʟʟ ᴛʜᴇ ꜰɪʟᴇꜱ ɪɴ ᴛʜɪꜱ ʙᴏᴛ ᴀʀᴇ ꜰʀᴇᴇʟʏ ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛʜᴇ ɪɴᴛᴇʀɴᴇᴛ ᴏʀ ᴘᴏꜱᴛᴇᴅ ʙʏ ꜱᴏᴍᴇʙᴏᴅʏ ᴇʟꜱᴇ. ᴊᴜꜱᴛ ꜰᴏʀ ᴇᴀꜱʏ ꜱᴇᴀʀᴄʜɪɴɢ ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ɪɴᴅᴇxɪɴɢ ꜰɪʟᴇꜱ ᴡʜɪᴄʜ ᴀʀᴇ ᴀʟʀᴇᴀᴅʏ ᴜᴘʟᴏᴀᴅᴇᴅ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ. ᴡᴇ ʀᴇꜱᴘᴇᴄᴛ ᴀʟʟ ᴛʜᴇ ᴄᴏᴘʏʀɪɢʜᴛ ʟᴀᴡꜱ ᴀɴᴅ ᴡᴏʀᴋꜱ ɪɴ ᴄᴏᴍᴘʟɪᴀɴᴄᴇ ᴡɪᴛʜ ᴅᴍᴄᴀ ᴀɴᴅ ᴇᴜᴄᴅ. ɪꜰ ᴀɴʏᴛʜɪɴɢ ɪꜱ ᴀɢᴀɪɴꜱᴛ ʟᴀᴡ ᴘʟᴇᴀꜱᴇ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ꜱᴏ ᴛʜᴀᴛ ɪᴛ ᴄᴀɴ ʙᴇ ʀᴇᴍᴏᴠᴇᴅ ᴀꜱᴀᴘ. ɪᴛ ɪꜱ ꜰᴏʀʙɪʙʙᴇɴ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ, ꜱᴛʀᴇᴀᴍ, ʀᴇᴘʀᴏᴅᴜᴄᴇ, ꜱʜᴀʀᴇ ᴏʀ ᴄᴏɴꜱᴜᴍᴇ ᴄᴏɴᴛᴇɴᴛ ᴡɪᴛʜᴏᴜᴛ ᴇxᴘʟɪᴄɪᴛ ᴘᴇʀᴍɪꜱꜱɪᴏɴ ꜰʀᴏᴍ ᴛʜᴇ ᴄᴏɴᴛᴇɴᴛ ᴄʀᴇᴀᴛᴏʀ ᴏʀ ʟᴇɢᴀʟ ᴄᴏᴘʏʀɪɢʜᴛ ʜᴏʟᴅᴇʀ. ɪꜰ ʏᴏᴜ ʙᴇʟɪᴇᴠᴇ ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴠɪᴏʟᴀᴛɪɴɢ ʏᴏᴜʀ ɪɴᴛᴇʟʟᴇᴄᴛᴜᴀʟ ᴘʀᴏᴘᴇʀᴛʏ, ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ ʀᴇꜱᴘᴇᴄᴛɪᴠᴇ ᴄʜᴀɴɴᴇʟꜱ ꜰᴏʀ ʀᴇᴍᴏᴠᴀʟ. ᴛʜᴇ ʙᴏᴛ ᴅᴏᴇꜱ ɴᴏᴛ ᴏᴡɴ ᴀɴʏ ᴏꜰ ᴛʜᴇꜱᴇ ᴄᴏɴᴛᴇɴᴛꜱ, ɪᴛ ᴏɴʟʏ ɪɴᴅᴇx ᴛʜᴇ ꜰɪʟᴇꜱ ꜰʀᴏᴍ ᴛᴇʟᴇɢʀᴀᴍ...</b>"""
     
 
-    IMDB_TEMPLATE_TXT = """<b>𝖰𝗎𝖾𝗋𝗒 : {qurey}
+    IMDB_TEMPLATE_TXT = """
+<b>Query: {query}
 
-𝖨𝖬𝖣𝖡 𝖣𝖺𝗍𝖺 :
-🏷 𝖳𝗂𝗍𝗅𝖾 : <a href={url}>{title}</a>
-🎭 𝖦𝖾𝗇𝗋𝖾𝗌 : {genres}
-📆 𝖸𝖾𝖺𝗋 : <a href={url}/releaseinfo>{year}</a>
-🌟 𝖱𝖺𝗍𝗂𝗇𝗀 : <a href={url}/ratings>{rating}</a> / 10 (based on {votes} user ratings.)
-☀️ 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾𝗌 : <code>{languages}</code>
-📀 𝖱𝗎𝗇𝖳𝗂𝗆𝖾 : {runtime} Minutes
-📆 𝖱𝖾𝗅𝖾𝖺𝗌𝖾 𝖨𝗇𝖿𝗈 : {release_date}
-🎛 𝖢𝗈𝗎𝗇𝗍𝗋𝗂𝖾𝗌 : <code>{countries}</code>
-⏰ 𝖱𝖾𝗌𝗎𝗅𝗍 𝖲𝗁𝗈𝗐𝗇 𝖨𝗇 𝖳𝗂𝗆𝖾 : {remaining_seconds}
-📥 𝖴𝗉𝗅𝗈𝖺𝖽𝗂𝗇𝗀 : @Tr_LinksZz
-🗣️𝖣𝗂𝗌𝖼𝗎𝗌𝗌𝗂𝗈𝗇 : @Discussion_tr_links
+IMDb Data:
+🏷 Title: <a href={url}>{title}</a>
+🎭 Genres: {genres}
+📆 Year: <a href={url}/releaseinfo>{year}</a>
+🌟 Rating: <a href={url}/ratings>{rating}</a> / 10
+📥 Uploading : @Tr_LinksZz
+🗣️Disc : @Discussion_tr_links</b>"""
 
-💁‍♂️ 𝐑𝐞𝐪𝐮𝐞𝐬𝐭𝐞𝐝 𝐁𝐲 : {message.from_user.mention}</b>"""
-    
     ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
     
