@@ -185,13 +185,16 @@ async def next_page(bot, query):
             else:
                 off_set = offset - 10
             if n_offset == 0:
+                btn.append([InlineKeyboardButton(text="🔗 𝖧𝗈𝗐 𝖳𝗈 𝖣𝗈𝗐𝗇𝗅𝗈𝖺𝖽 🔗", url="https://t.me/how_Download_Tr/6")]) 
                 btn.append(
                     [InlineKeyboardButton("⌫ 𝐁𝐀𝐂𝐊", callback_data=f"next_{req}_{key}_{off_set}"), InlineKeyboardButton(f"{math.ceil(int(offset)/10)+1} / {math.ceil(total/10)}", callback_data="pages")]
                 )
             elif off_set is None:
+                btn.append([InlineKeyboardButton(text="🔗 𝖧𝗈𝗐 𝖳𝗈 𝖣𝗈𝗐𝗇𝗅𝗈𝖺𝖽 🔗", url="https://t.me/how_Download_Tr/6")])
                 btn.append([InlineKeyboardButton("𝐏𝐀𝐆𝐄", callback_data="pages"), InlineKeyboardButton(f"{math.ceil(int(offset)/10)+1} / {math.ceil(total/10)}", callback_data="pages"), InlineKeyboardButton("𝐍𝐄𝐗𝐓 ➪", callback_data=f"next_{req}_{key}_{n_offset}")])
             else:
                 btn.append(
+                        btn.append([InlineKeyboardButton(text="🔗 𝖧𝗈𝗐 𝖳𝗈 𝖣𝗈𝗐𝗇𝗅𝗈𝖺𝖽 🔗", url="https://t.me/how_Download_Tr/6")])
                     [
                         InlineKeyboardButton("⌫ 𝐁𝐀𝐂𝐊", callback_data=f"next_{req}_{key}_{off_set}"),
                         InlineKeyboardButton(f"{math.ceil(int(offset)/10)+1} / {math.ceil(total/10)}", callback_data="pages"),
@@ -206,12 +209,15 @@ async def next_page(bot, query):
             else:
                 off_set = offset - int(MAX_B_TN)
             if n_offset == 0:
+                btn.append([InlineKeyboardButton(text="🔗 𝖧𝗈𝗐 𝖳𝗈 𝖣𝗈𝗐𝗇𝗅𝗈𝖺𝖽 🔗", url="https://t.me/how_Download_Tr/6")])
                 btn.append(
                     [InlineKeyboardButton("⌫ 𝐁𝐀𝐂𝐊", callback_data=f"next_{req}_{key}_{off_set}"), InlineKeyboardButton(f"{math.ceil(int(offset)/int(MAX_B_TN))+1} / {math.ceil(total/int(MAX_B_TN))}", callback_data="pages")]
                 )
             elif off_set is None:
+                btn.append([InlineKeyboardButton(text="🔗 𝖧𝗈𝗐 𝖳𝗈 𝖣𝗈𝗐𝗇𝗅𝗈𝖺𝖽 🔗", url="https://t.me/how_Download_Tr/6")])
                 btn.append([InlineKeyboardButton("𝐏𝐀𝐆𝐄", callback_data="pages"), InlineKeyboardButton(f"{math.ceil(int(offset)/int(MAX_B_TN))+1} / {math.ceil(total/int(MAX_B_TN))}", callback_data="pages"), InlineKeyboardButton("𝐍𝐄𝐗𝐓 ➪", callback_data=f"next_{req}_{key}_{n_offset}")])
             else:
+                btn.append([InlineKeyboardButton(text="🔗 𝖧𝗈𝗐 𝖳𝗈 𝖣𝗈𝗐𝗇𝗅𝗈𝖺𝖽 🔗", url="https://t.me/how_Download_Tr/6")])
                 btn.append(
                     [
                         InlineKeyboardButton("⌫ 𝐁𝐀𝐂𝐊", callback_data=f"next_{req}_{key}_{off_set}"),
@@ -228,12 +234,15 @@ async def next_page(bot, query):
         else:
             off_set = offset - 10
         if n_offset == 0:
+            btn.append([InlineKeyboardButton(text="🔗 𝖧𝗈𝗐 𝖳𝗈 𝖣𝗈𝗐𝗇𝗅𝗈𝖺𝖽 🔗", url="https://t.me/how_Download_Tr/6")])
             btn.append(
                 [InlineKeyboardButton("⌫ 𝐁𝐀𝐂𝐊", callback_data=f"next_{req}_{key}_{off_set}"), InlineKeyboardButton(f"{math.ceil(int(offset)/10)+1} / {math.ceil(total/10)}", callback_data="pages")]
             )
         elif off_set is None:
+            btn.append([InlineKeyboardButton(text="🔗 𝖧𝗈𝗐 𝖳𝗈 𝖣𝗈𝗐𝗇𝗅𝗈𝖺𝖽 🔗", url="https://t.me/how_Download_Tr/6")])
             btn.append([InlineKeyboardButton("𝐏𝐀𝐆𝐄", callback_data="pages"), InlineKeyboardButton(f"{math.ceil(int(offset)/10)+1} / {math.ceil(total/10)}", callback_data="pages"), InlineKeyboardButton("𝐍𝐄𝐗𝐓 ➪", callback_data=f"next_{req}_{key}_{n_offset}")])
         else:
+            btn.append([InlineKeyboardButton(text="🔗 𝖧𝗈𝗐 𝖳𝗈 𝖣𝗈𝗐𝗇𝗅𝗈𝖺𝖽 🔗", url="https://t.me/how_Download_Tr/6")])
             btn.append(
                 [
                     InlineKeyboardButton("⌫ 𝐁𝐀𝐂𝐊", callback_data=f"next_{req}_{key}_{off_set}"),
@@ -368,20 +377,24 @@ async def language_check(bot, query):
             req = userid
             try:
                 if settings['max_btn']:
+                    btn.append([InlineKeyboardButton(text="🔗 𝖧𝗈𝗐 𝖳𝗈 𝖣𝗈𝗐𝗇𝗅𝗈𝖺𝖽 🔗", url="https://t.me/how_Download_Tr/6")])
                     btn.append(
                         [InlineKeyboardButton("𝐏𝐀𝐆𝐄", callback_data="pages"), InlineKeyboardButton(text=f"1/{math.ceil(int(total_results)/10)}",callback_data="pages"), InlineKeyboardButton(text="𝐍𝐄𝐗𝐓 ➪",callback_data=f"next_{req}_{key}_{offset}")]
                     )
 
                 else:
+                    btn.append([InlineKeyboardButton(text="🔗 𝖧𝗈𝗐 𝖳𝗈 𝖣𝗈𝗐𝗇𝗅𝗈𝖺𝖽 🔗", url="https://t.me/how_Download_Tr/6")])
                     btn.append(
                         [InlineKeyboardButton("𝐏𝐀𝐆𝐄", callback_data="pages"), InlineKeyboardButton(text=f"1/{math.ceil(int(total_results)/int(MAX_B_TN))}",callback_data="pages"), InlineKeyboardButton(text="𝐍𝐄𝐗𝐓 ➪",callback_data=f"next_{req}_{key}_{offset}")]
                     )
             except KeyError:
                 await save_group_settings(query.message.chat.id, 'max_btn', True)
+                btn.append([InlineKeyboardButton(text="🔗 𝖧𝗈𝗐 𝖳𝗈 𝖣𝗈𝗐𝗇𝗅𝗈𝖺𝖽 🔗", url="https://t.me/how_Download_Tr/6")])
                 btn.append(
                     [InlineKeyboardButton("𝐏𝐀𝐆𝐄", callback_data="pages"), InlineKeyboardButton(text=f"1/{math.ceil(int(total_results)/10)}",callback_data="pages"), InlineKeyboardButton(text="𝐍𝐄𝐗𝐓 ➪",callback_data=f"next_{req}_{key}_{offset}")]
                 )
         else:
+            btn.append([InlineKeyboardButton(text="🔗 𝖧𝗈𝗐 𝖳𝗈 𝖣𝗈𝗐𝗇𝗅𝗈𝖺𝖽 🔗", url="https://t.me/how_Download_Tr/6")])
             btn.append(
                 [InlineKeyboardButton(text="𝐍𝐎 𝐌𝐎𝐑𝐄 𝐏𝐀𝐆𝐄𝐒 𝐀𝐕𝐀𝐈𝐋𝐀𝐁𝐋𝐄",callback_data="pages")]
             )
@@ -1213,13 +1226,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('✫ 𝖠𝖽𝗆𝗂𝗇 𝖯𝖺𝗇𝖾𝗅 ✫', callback_data='admin')            
          ], [
              InlineKeyboardButton('𓆈 𝖥𝗂𝗅𝖾 𝖲𝗍𝗈𝗋𝖾', callback_data='store_file'),   
-             InlineKeyboardButton('𓃗 𝖳𝖾𝗅𝗀𝗋𝖺𝗉𝗁', callback_data='tele') 
+             InlineKeyboardButton('𓃠 𝖥𝗂𝗅𝗍𝖾𝗋𝗌', callback_data='filters')  
          ], [ 
              InlineKeyboardButton('𓅷 𝖢𝗈𝗇𝗇𝖾𝖼𝗍', callback_data='coct'), 
-             InlineKeyboardButton('𓃠 𝖥𝗂𝗅𝗍𝖾𝗋𝗌', callback_data='filters') 
-         ], [           
-            InlineKeyboardButton('𓆙 𝖤𝗑𝗍𝗋𝖺 𝖬𝗈𝖽𝖾', callback_data='extmod'), 
-            InlineKeyboardButton('𓃰 𝖤𝗑𝗍𝗋𝖺 𝖥𝖾𝖺𝗍𝗎𝗋𝖾', callback_data='extra')
+             InlineKeyboardButton('𓆙 𝖤𝗑𝗍𝗋𝖺 𝖬𝗈𝖽𝖾', callback_data='extmod') 
          ], [
             InlineKeyboardButton('✦ 𝖦𝗋𝗈𝗎𝗉 𝖱𝗎𝗅𝖾𝗌 ✦', callback_data='rules'),
             InlineKeyboardButton('❀ 𝖡𝗈𝗍 𝖲𝗍𝖺𝗍𝗎𝗌 ❀', callback_data='stats')            
