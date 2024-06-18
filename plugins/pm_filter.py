@@ -1263,7 +1263,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             reply_markup=reply_markup,
             parse_mode=enums.ParseMode.HTML
         )
-     elif query.data == "suprt_info":
+    elif query.data == "suprt_info":
         buttons = [[
              InlineKeyboardButton('♔︎ 𝖬𝖺𝗂𝗇 𝖢𝗁𝖺𝗇𝗇𝖾𝗅 ♔︎', url='https://t.me/Tr_LinksZz')
          ],[ 
@@ -1275,14 +1275,14 @@ async def cb_handler(client: Client, query: CallbackQuery):
          ],[ 
              InlineKeyboardButton('⟸ 𝖡𝖺𝖼𝗄', callback_data='start')
          ]]
-        reply_markup = InlineKeyboardMarkup(buttons)
         await client.edit_message_media(
             query.message.chat.id, 
             query.message.id, 
             InputMediaPhoto(random.choice(PICS))
         )
+        reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
-            text=script.SUPRT_INFO_TXT.format(query.from_user.mention),
+            text=script.SUPRT_INFO_TXT.format(temp.B_NAME),
             reply_markup=reply_markup,
             parse_mode=enums.ParseMode.HTML
         )
