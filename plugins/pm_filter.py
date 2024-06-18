@@ -246,7 +246,7 @@ async def next_page(bot, query):
         InlineKeyboardButton("! Lᴀɴɢᴜᴀɢᴇs !", callback_data=f"select_lang#{req}")
     ])
     btn.insert(0, [
-        InlineKeyboardButton("⚡ Cʜᴇᴄᴋ Bᴏᴛ PM ⚡", url=f"https://t.me/{temp.U_NAME}")
+        InlineKeyboardButton((f"🎬 {search} 🎬", callback_data="srchinfo")
     ])
     try:
         await query.edit_message_reply_markup(
@@ -359,7 +359,7 @@ async def language_check(bot, query):
         ])
 
         btn.insert(0, [
-            InlineKeyboardButton("⚡ Cʜᴇᴄᴋ Bᴏᴛ PM ⚡", url=f"https://t.me/{temp.U_NAME}")
+            InlineKeyboardButton((f"🎬 {search} 🎬", callback_data="srchinfo")
         ])
 
         if offset != "":
@@ -1135,6 +1135,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
         else:
             await query.answer("Yᴏᴜ ᴅᴏɴ'ᴛ ʜᴀᴠᴇ sᴜғғɪᴄɪᴀɴᴛ ʀɪɢʜᴛs ᴛᴏ ᴅᴏ ᴛʜɪs !", show_alert=True)
 
+    elif query.data == "srchinfo":
+        await query.answer(text=script.SRCHINFO, show_alert=True)
+    
     elif query.data == "reqinfo":
         await query.answer(text=script.REQINFO, show_alert=True)
 
@@ -1760,7 +1763,7 @@ async def auto_filter(client, msg, spoll=False):
     ])
 
     btn.insert(0, [
-        InlineKeyboardButton("⚡ Cʜᴇᴄᴋ Bᴏᴛ PM ⚡", url=f"https://t.me/{temp.U_NAME}")
+        InlineKeyboardButton((f"🎬 {search} 🎬", callback_data="srchinfo")
     ])
 
     if offset != "":
