@@ -1412,13 +1412,14 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "rendering_info":
         buttons = [[
-            InlineKeyboardButton('⟸ Bᴀᴄᴋ', callback_data='about')
+            InlineKeyboardButton('⟸ 𝖡𝖺𝖼𝗄', callback_data='about')
         ]]
         await client.edit_message_media(
             query.message.chat.id, 
             query.message.id, 
             InputMediaPhoto(random.choice(PICS))
         )
+        reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
             text=script.RENDERING_TXT,
             reply_markup=reply_markup,
