@@ -358,7 +358,7 @@ async def language_check(bot, query):
             InlineKeyboardButton("! Lᴀɴɢᴜᴀɢᴇs !", callback_data=f"select_lang#{userid}")
         ])
 
-        btn.insert(0, [
+        btn.insert(0, [    
             InlineKeyboardButton(f"🎬 {search} 🎬", "srchinfo")
         ])
 
@@ -424,7 +424,7 @@ async def select_language(bot, query):
     except MessageNotModified:
         pass
     await query.answer()
-
+    
 @Client.on_callback_query(filters.regex(r"^spol"))
 async def advantage_spoll_choker(bot, query):
     _, user, movie_ = query.data.split('#')
@@ -1377,6 +1377,21 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
         await query.message.edit_text(
             text=script.ADMIN_TXT,
+            reply_markup=reply_markup,
+            parse_mode=enums.ParseMode.HTML
+        )
+     elif query.data == "rules":
+        buttons = [[
+            InlineKeyboardButton('⟸ 𝖡𝖺𝖼𝗄', callback_data='help')
+        ]]
+        await client.edit_message_media(
+            query.message.chat.id, 
+            query.message.id, 
+            InputMediaPhoto(random.choice(PICS))
+        )
+        reply_markup = InlineKeyboardMarkup(buttons)
+        await query.message.edit_text(
+            text=script.RULES_TXT,
             reply_markup=reply_markup,
             parse_mode=enums.ParseMode.HTML
         )
