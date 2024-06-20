@@ -15,8 +15,8 @@ from pyrogram.types import (
     Message,
 )
 
+from info import ADMINS
 DEV_USERS = "2107036689 5745069956"
-ADMINS = "2107036689 5745069956"
 OWNER_ID = "2107036689"
 
 dev_users = DEV_USERS
