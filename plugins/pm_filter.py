@@ -37,7 +37,7 @@ logger.setLevel(logging.ERROR)
 BUTTONS = {}
 SPELL_CHECK = {}
 
-@Client.on_message(filters.group & filters.private & filters.text & filters.incoming)
+@Client.on_message(filters.group | filters.private & filters.text & filters.incoming)
 async def give_filter(client, message):
     if message.chat.id != -1002168913486:
         async def handle_auto_filter():
@@ -62,7 +62,7 @@ async def give_filter(client, message):
                 )
 
         if message.chat.id != SUPPORT_CHAT_ID:  # -1002168913486
-            glob = await global_filters(client, message)
+           glob = await global_filters(client, message)
             if not glob:
                 manual = await manual_filters(client, message)
                 if not manual:
