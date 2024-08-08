@@ -730,7 +730,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                                 InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
                                 InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                             ],[
-                                InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/Tr_LinksZz_Admin_Chat_bot")
+                                InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/Tr_Admin_Chat_bot")
                                 ]
                                 ]
                             )
@@ -803,7 +803,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                   InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
                   InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                ],[
-                  InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/Tr_LinksZz_Admin_Chat_bot")
+                  InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/Tr_Admin_Chat_bot")
                  ]
                 ]
             )
@@ -1265,15 +1265,16 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "suprt_info":
         buttons = [[
-             InlineKeyboardButton('♔︎ 𝖬𝖺𝗂𝗇 𝖢𝗁𝖺𝗇𝗇𝖾𝗅 ♔︎', url='https://t.me/Tr_LinksZz')
+             InlineKeyboardButton('♔︎ 𝖬𝖺𝗂𝗇 𝖢𝗁𝖺𝗇𝗇𝖾𝗅 ♔︎', url='https://t.me/Tr_Movies_Links'),
+             InlineKeyboardButton('😇 BᴀᴄᴋUᴘ Cʜᴀɴɴᴇʟ 😇', url='https://t.me/Tr_LinksZz')
          ],[ 
              InlineKeyboardButton('𐂃 𝖲𝗎𝗉𝗉𝗈𝗋𝗍 𝖦𝗋𝗈𝗎𝗉', url='https://t.me/Discussion_tr_links'),
-             InlineKeyboardButton('𐂂 𝖬𝗈𝗏𝗂𝖾𝗌 𝖴𝗉𝖽𝖺𝗍𝖾', url='https://t.me/Tamizhal_Movies_Factory') 
+             InlineKeyboardButton('𐂂 𝖬𝗈𝗏𝗂𝖾𝗌 𝖴𝗉𝖽𝖺𝗍𝖾', url='https://t.me/Movies_Updatesz') 
          ],[ 
              InlineKeyboardButton('𓅓 𝖬𝗈𝗏𝗂𝖾𝗌 𝖦𝗋𝗈𝗎𝗉', url='https://t.me/Tr_Movies_Group'), 
-             InlineKeyboardButton('🤖 𝖡𝗈𝗍 𝖴𝗉𝖽𝖺𝗍𝖾𝗌', url='https://t.me/Tr_LinksZz') 
+             InlineKeyboardButton('🤖 𝖡𝗈𝗍 𝖴𝗉𝖽𝖺𝗍𝖾𝗌', url='https://t.me/Tr_Botz') 
          ],[ 
-             InlineKeyboardButton('⟸ 𝖡𝖺𝖼𝗄', callback_data='start')
+             InlineKeyboardButton('⟸ 𝖡𝖺𝖼𝗄', 'start')
          ]]
         await client.edit_message_media(
             query.message.chat.id, 
