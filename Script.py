@@ -3,26 +3,30 @@ class script(object):
     
 Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs & Webseries & Animes , Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ Eɴᴊᴏʏ 😍
 
-🔥 Pᴏᴡᴇʀᴇᴅ Bʏ : @Tr_LinksZz 🔥</b>"""
+🔥 Pᴏᴡᴇʀᴇᴅ Bʏ : @Tr_Movies_Links 🔥</b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ: <a href=https://t.me/Tr_ProAutoFilter_Bot>{}</a>
-✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/Tr_LinksZz_Admin_Chat_bot'>👑 𝖑𝖔𝖌𝖆𝖓𝖆𝖙𝖍𝖆𝖓 👑</a>
+✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/Tr_Admin_Chat_bot'>👑 𝖑𝖔𝖌𝖆𝖓𝖆𝖙𝖍𝖆𝖓 👑</a>
+✯ ᴍʏ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/Tr_Botz>Tr Botz</a>
+✯ ʙᴏᴛ ᴍᴀɪɴᴛᴀɪɴs ʙʏ : <a href=https://t.me/Tr_Movies_Links>Tʀ Mᴏᴠɪᴇs™</a>
 ✯ Lɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
 ✯ Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a>
 ✯ DᴀᴛᴀBᴀsᴇ: <a href='https://www.mongodb.com/'>MᴏɴɢᴏDB</a>
 ✯ Bᴏᴛ Sᴇʀᴠᴇʀ: <a href='https://app.koyeb.com/'>Kᴏʏᴇʙ</a>
 ✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: v2.7.1 [ Sᴛᴀʙʟᴇ ]
 
-❤️‍🔥 Bᴏᴛ Mᴀɪɴᴛᴇɴᴀɴᴄᴇ Bʏ : @Tr_LinksZz ❤️‍🔥</b>"""
+❤️‍🔥 Mᴀɪɴ Cʜᴀɴɴᴇʟ Aɴɴɪᴠᴇʀsᴀʀʏ : 27.08.2022 ❤️‍🔥
+
+🤖  Mʏ Cʀᴇᴀᴛᴇᴅ Dᴀᴛᴇ : 17.06.2023 🤖</b>"""
 
     SOURCE_TXT = """<b>𝗡𝗼𝘁𝗲 :
 - ⚠️ 𝖳𝗁𝗂𝗌 𝖡𝗈𝗍 𝖨𝗌 𝖭𝗈𝗍 𝖠𝗇 𝖮𝗉𝖾𝗇 𝖲𝗈𝗎𝗋𝖼𝖾 𝖯𝗋𝗈𝗃𝖾𝖼𝗍.!!!
 - 𝖳𝗁𝗂𝗌 𝖡𝗈𝗍 𝖧𝖺𝗌 𝖫𝖺𝗍𝖾𝗌𝗍 𝖠𝗇𝖽 𝖠𝖽𝗏𝖺𝗇𝖼𝖾𝖽 𝖥𝖾𝖺𝗍𝗎𝗋𝖾𝗌.
 𝗗𝗲𝘃𝘀 :
-✯ <a href=https://t.me/Tr_LinksZz_Admin_Chat_bot>👑 𝖑𝖔𝖌𝖆𝖓𝖆𝖙𝖍𝖆𝖓 👑</a></b>"""
+✯ <a href=https://t.me/Tr_Admin_Chat_bot>👑 𝖑𝖔𝖌𝖆𝖓𝖆𝖙𝖍𝖆𝖓 👑</a></b>"""
     
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
@@ -135,7 +139,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
  
 🦋 ᴍʏ ʙᴇsᴛ ғʀɪᴇɴᴅ ☞ <a href=tg://settings>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a> 🦋 
  
-❤️ Powered By : @Tr_LinksZz ❤️</b>""" 
+❤️ Powered By : @Tr_Movies_Links ❤️</b>""" 
  
     SUPRT_INFO_TXT = """<b>🌟𝖩𝗈𝗂𝗇 𝖮𝗎𝗋 𝖬𝗒 𝖢𝗁𝖺𝗇𝗇𝖾𝗅𝗌 & 𝖦𝗋𝗈𝗎𝗉𝗌 𝖬𝗈𝖽𝗎𝗅𝖾.🌟
 🎟️ 𝖬𝗈𝗏𝗂𝖾𝗌 𝖴𝗉𝖽𝖺𝗍𝖾𝗌 𝖢𝗁𝖺𝗇𝗇𝖾𝗅.
@@ -148,12 +152,12 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 ➳ Tʜᴀɴᴋ Tᴏ : <a href=https://t.me/DQ_The_File_Donor_Bot_Updates>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a> 
 ➳ Tʜᴀɴᴋ Tᴏ Dᴇᴠᴇʟᴏᴘᴇʀ : <a href=t.me/creatorbeatz>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a> 
 ➳ Tʜᴀɴᴋ Tᴏ Dᴇᴠᴇʟᴏᴘᴇʀ :  <a href=https://t.me/VijayTG_Updates>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a> 
-➳ Dᴇᴠᴇʟᴏᴘᴇᴅ Bʏ : <a href=https://t.me/Tr_LinksZz_Admin_Chat_bot>👑 𝖑𝖔𝖌𝖆𝖓𝖆𝖙𝖍𝖆𝖓 👑</a> 
-➳ Bᴏᴛ Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ : <a href=https://t.me/Tr_LinksZz>ᴛʀ ᴍᴏᴠɪᴇs™</a> 
+➳ Dᴇᴠᴇʟᴏᴘᴇᴅ Bʏ : <a href=https://t.me/Tr_Admin_Chat_bot>👑 𝖑𝖔𝖌𝖆𝖓𝖆𝖙𝖍𝖆𝖓 👑</a> 
+➳ Bᴏᴛ Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ : <a href=https://t.me/Tr_Movies_Links>ᴛʀ ᴍᴏᴠɪᴇs™</a> 
 ➳ Fᴇᴀᴛᴜʀᴇ Aᴅᴅᴇᴅ Bʏ : <a href=https://t.me/mallufiles><b>𝖬𝖺𝗅𝗅𝗎𝖥𝗂𝗅𝖾𝗌™</b></a> 
  
 ✦ 𝐌𝐚𝐢𝐧𝐥𝐲 𝐄𝐝𝐢𝐭𝐭𝐞𝐝 ✦ :
-➳ Mᴀɪɴʟʏ Eᴅɪᴛᴇᴅ Bʏ : <a href=https://t.me/Tr_LinksZz_Admin_Chat_bot>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a> 
+➳ Mᴀɪɴʟʏ Eᴅɪᴛᴇᴅ Bʏ : <a href=https://t.me/Tr_Admin_Chat_bot>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a> 
 ➳ Sᴘᴇᴄɪᴀʟ Tʜᴀɴᴋs Tᴏ : <a href=https://t.me/mallufiles>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a> 
  
 ★  [ <a href=https://t.me/H21TG>Sᴘᴇᴄɪᴀʟ Tʜᴀɴᴋs Tᴏ Dᴇᴠᴇʟᴏᴘᴇʀ</a> ]  ★</b>"""
@@ -243,7 +247,7 @@ Sᴇᴄᴏɴᴅ Oᴡɴᴇʀ Dᴇᴛᴀɪs :-
 
 🎯 ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛʜɪs ғɪʟᴇs ʏᴏᴜ ᴡᴀɴᴛ ᴀɴᴅ sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ.
 
-❤️‍🔥 𝐌𝐚𝐢𝐧 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 : @Tr_LinksZz ❤️‍🔥"""
+❤️‍🔥 𝐌𝐚𝐢𝐧 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 : @Tr_Movies_Links ❤️‍🔥"""
     
     REQINFO = """
 ⚠ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ⚠
@@ -287,7 +291,7 @@ Sᴇᴄᴏɴᴅ Oᴡɴᴇʀ Dᴇᴛᴀɪs :-
     
 🔘 size - {file_size}
 
-❤️‍🔥 ᴊᴏɪɴ : @Tr_LinksZz ❤️‍🔥</b>"""
+❤️‍🔥 ᴊᴏɪɴ :@Tr_Movies_Links ❤️‍🔥</b>"""
     
     DELF_TXT = """<b>ᴛʜɪꜱ ɪꜱ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
 
@@ -302,8 +306,8 @@ IMDb Data:
 🎭 Genres: {genres}
 📆 Year: <a href={url}/releaseinfo>{year}</a>
 🌟 Rating: <a href={url}/ratings>{rating}</a> / 10
-📥 Uploading : @Tr_LinksZz
-🗣️Disc : @Discussion_tr_links
+📥 Uploading : @Tr_Movies_Links
+🗣️ ᴅɪsᴄᴜssɪᴏɴ : @Discussion_tr_links
 
 ✨ Aғᴛᴇʀ 10 Mɪɴᴜᴛᴇs Tʜɪs Mᴇssᴀɢᴇ Wɪʟʟ Bᴇ Aᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ Dᴇʟᴇᴛᴇᴅ. ✨</b>"""
 
